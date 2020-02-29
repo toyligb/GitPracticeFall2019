@@ -7,6 +7,8 @@ public class StringPractice {
         System.out.println("\"Hello World!\" = " + "Hello World!");
         String str = "Java is fun";
         System.out.println("str = " + str);
+        String str2 = new String("Java is fun");
+        System.out.println(str +" " + str2);
 
     }
 
